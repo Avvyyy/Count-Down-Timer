@@ -1,6 +1,6 @@
 $(document).ready(function () {
 	//Setting the deadline for the countdown date in milliseconds
-	let countDownDate = new Date("2024-03-02:11:30").getTime();
+	let countDownDate = new Date("2024-04-04:11:30").getTime();
 
 	let countDown = setInterval(() => {
 
